@@ -42,6 +42,10 @@ p{font-size:1em;line-height: 1.7em; margin-bottom: 1.7em;}
 	padding-top:6em;
 }
 
+#works figure {
+	width: 25%;
+}
+
 #works figcaption a{
 	border: 1px solid #fff;
 	margin-top: 1em;
